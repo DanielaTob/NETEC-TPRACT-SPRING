@@ -15,3 +15,10 @@ Este repositorio contiene varias actividades. A continuación, un breve resumen 
 ![Practica_1](https://github.com/DanielaTob/img/blob/main/PRACTICA_1.png?raw=true)
 ![Practica_1](https://github.com/DanielaTob/img/blob/main/PRACTICA_1.1.png?raw=true)
 
+## 2. Acceso a datos con JPA
+
+- Descripción: Creación de aplicación de Spring Boot dependencia JPA.
+
+![Practica_1](https://github.com/DanielaTob/img/blob/main/PRACTICA_2.png?raw=true)
+![Practica_1](https://github.com/DanielaTob/img/blob/main/PRACTICA_2.2.png?raw=true)
+
