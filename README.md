@@ -2,6 +2,11 @@
 
 Este repositorio contiene varias actividades. A continuación, un breve resumen de cada una:
 
+## Tabla de Contenidos
+1. [Hello World en Spring Boot](#1-hello-world-en-spring-boot)
+2. [Acceso a datos con JPA](#2-acceso-a-datos-con-jpa)
+3. [Spring Security](#3-spring-security)
+
 ## 1. Hello World en Spring Boot
 
 - Descripción: Creación de una aplicación simple de Spring Boot que imprime "Hello World".
@@ -20,5 +25,17 @@ Este repositorio contiene varias actividades. A continuación, un breve resumen 
 - Descripción: Creación de aplicación de Spring Boot dependencia JPA.
 
 ![Practica_2](https://github.com/DanielaTob/img/blob/main/PRACTICA_2.png?raw=true)
-![Practica_2](https://github.com/DanielaTob/img/blob/main/PRACTICA_2.2.png?raw=true)
+
+
+## 3. Spring Security
+
+- Descripción: Creación de aplicación de Spring Boot implementando seguridad, inicio de sesión y cierre de sesión.
+
+![Practica_3](https://github.com/DanielaTob/img/blob/main/PRACTICA-3-1.png?raw=true)
+![Practica_3](https://github.com/DanielaTob/img/blob/main/PRACTICA-3-2.png?raw=true)
+![Practica_3](https://github.com/DanielaTob/img/blob/main/PRACTICA-3-3.png?raw=true)
+![Practica_3](https://github.com/DanielaTob/img/blob/main/PRACTICA-3-4.png?raw=true)
+![Practica_3](https://github.com/DanielaTob/img/blob/main/PRACTICA-3-5.png?raw=true)
+
+
 

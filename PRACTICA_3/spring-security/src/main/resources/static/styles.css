@@ -1,0 +1,46 @@
+/* styles.css */
+
+body {
+    padding-top: 70px;
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+
+.card {
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.card-subtitle {
+    font-size: 0.9rem;
+}
+
+.card-link {
+    color: #0d6efd;
+    text-decoration: none;
+}
+
+.card-link:hover {
+    text-decoration: underline;
+}
+
+.login-container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
