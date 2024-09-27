@@ -6,6 +6,7 @@ Este repositorio contiene varias actividades. A continuación, un breve resumen 
 1. [Hello World en Spring Boot](#1-hello-world-en-spring-boot)
 2. [Acceso a datos con JPA](#2-acceso-a-datos-con-jpa)
 3. [Spring Security](#3-spring-security)
+4. [Spring CRUD Sistema de Recomendaciones](#4-spring-crud-sistema-de-recomendaciones)
 
 ## 1. Hello World en Spring Boot
 
@@ -36,6 +37,11 @@ Este repositorio contiene varias actividades. A continuación, un breve resumen 
 ![Practica_3](https://github.com/DanielaTob/img/blob/main/PRACTICA-3-3.png?raw=true)
 ![Practica_3](https://github.com/DanielaTob/img/blob/main/PRACTICA-3-4.png?raw=true)
 ![Practica_3](https://github.com/DanielaTob/img/blob/main/PRACTICA-3-5.png?raw=true)
+
+## 4. Spring CRUD Sistema de Recomendaciones
+
+- Descripción: En proceso...
+
 
 
 
