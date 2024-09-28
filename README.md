@@ -40,7 +40,25 @@ Este repositorio contiene varias actividades. A continuación, un breve resumen 
 
 ## 4. Spring CRUD Sistema de Recomendaciones
 
-- Descripción: En proceso...
+- Descripción: CRUD Sistema de Reseñas 
+
+1. Inicio de Sesión
+2. Lista de Reseñas
+3. Eliminar Reseña
+4. Editar Reseña
+5. Crear Reseña
+6. Modelo de datos y tablas
+7. Ejecución del proyecto
+
+![Practica_4](https://github.com/DanielaTob/img/blob/main/PRACTICA-4-1.png?raw=true)
+![Practica_4](https://github.com/DanielaTob/img/blob/main/PRACTICA-4-2.png?raw=true)
+![Practica_4](https://github.com/DanielaTob/img/blob/main/PRACTICA-4-3.png?raw=true)
+![Practica_4](https://github.com/DanielaTob/img/blob/main/PRACTICA-4-4.png?raw=true)
+![Practica_4](https://github.com/DanielaTob/img/blob/main/PRACTICA-4-5.png?raw=true)
+![Practica_4](https://github.com/DanielaTob/img/blob/main/PRACTICA-4-6.png?raw=true)
+![Practica_4](https://github.com/DanielaTob/img/blob/main/PRACTICA-4-7.png?raw=true)
+
+
 
 
 
